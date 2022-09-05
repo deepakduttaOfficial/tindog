@@ -1,11 +1,11 @@
 TinDog App
 
-[DeployLink]()
+[DeployLink](https://dogfy.netlify.app/)
 
 Useges Technology-
 
 ```
-Html , Css , Bootstrap
+Html , Css , Bootstrap , Fontawesome  icon
 ```
 
 ![Images](./thumbnail/tindog-1.png)
